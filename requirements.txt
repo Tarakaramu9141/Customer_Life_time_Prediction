@@ -1,0 +1,12 @@
+streamlit
+lifetimes
+xgboost
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+pdfminer.six
+openpyxl
+pyarrow

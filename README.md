@@ -6,7 +6,7 @@ This project predicts Customer Lifetime Value (CLV) using three different approa
 3. Bayesian hierarchical model
 
 ## Live Demo:
-You can view the live demo here
+You can view the live demo here : [https://customerlifetimeprediction-to.streamlit.app/]
 ## Models
 1. BG/NBD + Gamma-Gamma
 - BG/NBD model: Predicts transaction frequency
